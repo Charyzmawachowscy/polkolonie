@@ -1,0 +1,1 @@
+# App.jsx zostanie uzupełniony w kolejnym kroku
